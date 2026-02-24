@@ -10,3 +10,4 @@
 - [Lecture  8](https://SDSU.zoom.us/rec/share/I7d2q5UBMwy7wEZZrw2RF1G50WeT3JUoHp0FHuVDbGwvW-1PxUP53hCTSba1GITM.Gsyayzzfbg-ipo7Z) Samples, Populations, Binomial, Poisson, and Gaussian distributions
 - [Lecture  9](https://SDSU.zoom.us/rec/share/JkohcNZdlf6ge2t_4ASpb05-r1yd2kPjZaD2Wr-i_nDs_tFCPbGl8QvjesOrosAK.O2-qelmOJU886V99) telescopes
 - [Lecture 10](https://SDSU.zoom.us/rec/share/5FVzHd9JKr26w9t6QgeDQ5LP4Nei3cieP-C_mvv3A1TFH0PUN0WbErtmaE2KnC93.FZ6aKESmX9CpzqgQ) CCDs
+- [Lecture 11](https://SDSU.zoom.us/rec/share/ajaWDPqFoulJJrRCy29thd1RKBe-Wj_b2AyFjFjUc_9JC-5CTboQCI0EFG5QoZmw.BCqodzrpOefs7OAl) master bias; image processing
