@@ -11,3 +11,4 @@
 - [Lecture  9](https://SDSU.zoom.us/rec/share/JkohcNZdlf6ge2t_4ASpb05-r1yd2kPjZaD2Wr-i_nDs_tFCPbGl8QvjesOrosAK.O2-qelmOJU886V99) telescopes
 - [Lecture 10](https://SDSU.zoom.us/rec/share/5FVzHd9JKr26w9t6QgeDQ5LP4Nei3cieP-C_mvv3A1TFH0PUN0WbErtmaE2KnC93.FZ6aKESmX9CpzqgQ) CCDs
 - [Lecture 11](https://SDSU.zoom.us/rec/share/ajaWDPqFoulJJrRCy29thd1RKBe-Wj_b2AyFjFjUc_9JC-5CTboQCI0EFG5QoZmw.BCqodzrpOefs7OAl) master bias; image processing
+- [Lecture 12](https://SDSU.zoom.us/rec/share/LShTf-oWAinGiuDWFE2OJ10g5E_BvDJdqB8TwL-l7Rp3zP73panDRV4bPAh083j7.Qz5FE3-9X5Ebvwzm) CCD pixel value contributors; color images
