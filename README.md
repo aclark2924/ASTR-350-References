@@ -12,3 +12,4 @@
 - [Lecture 10](https://SDSU.zoom.us/rec/share/5FVzHd9JKr26w9t6QgeDQ5LP4Nei3cieP-C_mvv3A1TFH0PUN0WbErtmaE2KnC93.FZ6aKESmX9CpzqgQ) CCDs
 - [Lecture 11](https://SDSU.zoom.us/rec/share/ajaWDPqFoulJJrRCy29thd1RKBe-Wj_b2AyFjFjUc_9JC-5CTboQCI0EFG5QoZmw.BCqodzrpOefs7OAl) master bias; image processing
 - [Lecture 12](https://SDSU.zoom.us/rec/share/LShTf-oWAinGiuDWFE2OJ10g5E_BvDJdqB8TwL-l7Rp3zP73panDRV4bPAh083j7.Qz5FE3-9X5Ebvwzm) CCD pixel value contributors; color images
+- [Lecture 13](https://SDSU.zoom.us/rec/share/2a69HA5Gl_SZ6dv7xYPRcjX_r_cmjbpm27fmKY2NtAvYAqu3zQFk76G9atJHkpwK.n4Xxq-_fEgWfutns) LaTeX; magnitudes
