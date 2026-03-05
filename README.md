@@ -13,3 +13,4 @@
 - [Lecture 11](https://SDSU.zoom.us/rec/share/ajaWDPqFoulJJrRCy29thd1RKBe-Wj_b2AyFjFjUc_9JC-5CTboQCI0EFG5QoZmw.BCqodzrpOefs7OAl) master bias; image processing
 - [Lecture 12](https://SDSU.zoom.us/rec/share/LShTf-oWAinGiuDWFE2OJ10g5E_BvDJdqB8TwL-l7Rp3zP73panDRV4bPAh083j7.Qz5FE3-9X5Ebvwzm) CCD pixel value contributors; color images
 - [Lecture 13](https://SDSU.zoom.us/rec/share/2a69HA5Gl_SZ6dv7xYPRcjX_r_cmjbpm27fmKY2NtAvYAqu3zQFk76G9atJHkpwK.n4Xxq-_fEgWfutns) LaTeX; magnitudes
+- [Lecture 14](https://SDSU.zoom.us/rec/share/ZGn4cpX7ZozB8ycWWaqTtYkiKTaRfQPWWWCaJqh5pcEQdPNJ5Upk97U0Tvmlxzl2.IF0JnNNxLQ3CYZSI) Uncertainty propagation
