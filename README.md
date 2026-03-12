@@ -15,3 +15,4 @@
 - [Lecture 13](https://SDSU.zoom.us/rec/share/2a69HA5Gl_SZ6dv7xYPRcjX_r_cmjbpm27fmKY2NtAvYAqu3zQFk76G9atJHkpwK.n4Xxq-_fEgWfutns) LaTeX; magnitudes
 - [Lecture 14](https://SDSU.zoom.us/rec/share/ZGn4cpX7ZozB8ycWWaqTtYkiKTaRfQPWWWCaJqh5pcEQdPNJ5Upk97U0Tvmlxzl2.IF0JnNNxLQ3CYZSI) Uncertainty propagation
 - [Lecture 15](https://SDSU.zoom.us/rec/share/QnSuNypYruWEE2yJFdqPVqTrwdR-necRanussXWrKlRTWMwtIR0AofcH4iv7wGxx.3bzoZHxfI9mY4xj4) Least-squares fitting
+- [Lecture 16](https://SDSU.zoom.us/rec/share/PXLgusCTregKz3l4sZZLrF6ZFeysht2AV-dJpTfxXe-wto80sHOOEFK4XgHFX2FN.UQ5Dzqy8W_zWcryq) Least-squares fitting examples; Parallax; AASTeX
