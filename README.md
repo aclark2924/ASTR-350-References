@@ -17,3 +17,4 @@
 - [Lecture 15](https://SDSU.zoom.us/rec/share/QnSuNypYruWEE2yJFdqPVqTrwdR-necRanussXWrKlRTWMwtIR0AofcH4iv7wGxx.3bzoZHxfI9mY4xj4) Least-squares fitting
 - [Lecture 16](https://SDSU.zoom.us/rec/share/PXLgusCTregKz3l4sZZLrF6ZFeysht2AV-dJpTfxXe-wto80sHOOEFK4XgHFX2FN.UQ5Dzqy8W_zWcryq) Least-squares fitting examples; Parallax; AASTeX
 - [Lecture 17](https://SDSU.zoom.us/rec/share/E5FfYQUrIF2j5rTDbKOJsK0XUylE80dMyqn8lVopCkPyMJNMywvzEr-1Z4VjiMoC.FsdttkivdCemc6I6) chi-squared
+- [Lecture 18](https://SDSU.zoom.us/rec/share/nuvcLMasK8r2yMIxhjvrjCXH9gOfbRB5WWvZFa9umw8eVEeHh14jBB4a_OOTaEYv.4boEYjtL0-Ridumq) sigma clipping; photometry
