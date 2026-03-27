@@ -19,3 +19,4 @@
 - [Lecture 17](https://SDSU.zoom.us/rec/share/E5FfYQUrIF2j5rTDbKOJsK0XUylE80dMyqn8lVopCkPyMJNMywvzEr-1Z4VjiMoC.FsdttkivdCemc6I6) chi-squared
 - [Lecture 18](https://SDSU.zoom.us/rec/share/nuvcLMasK8r2yMIxhjvrjCXH9gOfbRB5WWvZFa9umw8eVEeHh14jBB4a_OOTaEYv.4boEYjtL0-Ridumq) sigma clipping; photometry
 - [Lecture 19](https://SDSU.zoom.us/rec/share/xvaj-zeXDm8uyfLe9xqii8JynYKA7phnxx8u_VuabKqV4234WUvR9JLd8GKbvE2m.d7KmqcEV9GDfIrkg) photometry review; Scipy; fmin
+- [Lecture 20](https://SDSU.zoom.us/rec/share/94uulgwPrIJXdVXVbWrA-H0NKxSzkbzbL1Ifcna5DjF_2bJxZ9EIbuRag1r1izEu.92PqFGPvrzhwOMEC) astroquery; Simbad, NED, VizieR, ADS
