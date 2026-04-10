@@ -21,3 +21,4 @@
 - [Lecture 19](https://SDSU.zoom.us/rec/share/xvaj-zeXDm8uyfLe9xqii8JynYKA7phnxx8u_VuabKqV4234WUvR9JLd8GKbvE2m.d7KmqcEV9GDfIrkg) photometry review; Scipy; fmin
 - [Lecture 20](https://SDSU.zoom.us/rec/share/94uulgwPrIJXdVXVbWrA-H0NKxSzkbzbL1Ifcna5DjF_2bJxZ9EIbuRag1r1izEu.92PqFGPvrzhwOMEC) astroquery; Simbad, NED, VizieR, ADS
 - [Lecture 21](https://SDSU.zoom.us/rec/share/ZhESojM0f6I0iFqSt-QS3aYtbmbHYm_QASiDNplTUHbcFqxSlGcYA8PUDcnKITd6.5bZdRhzXmqDnbuce) Lomb-Scargle periodogram; variable stars
+- [Lecture 22](https://SDSU.zoom.us/rec/share/1ee3P3kMK4810w_RngKDkPU815F2pHRnAcODFNmtrjRVlvR2kL9SRPapCqzwSkSF.dSqTkl1ERmXsfIyO) bootstrap resampling
