@@ -26,3 +26,4 @@
 - Lecture 24 (oral presentations)
 - [Lecutre 25](https://SDSU.zoom.us/rec/share/R3hg_oKlYvnogWW98pZ4RLEkFSS6aKVkgM_RWylboxqzV5Ly_jp6ZCD75uzXf4RN.cisTinTK8VTzFG_V) galactic coordinates; absorption and extinction
 - [Lecture 26](https://SDSU.zoom.us/rec/share/FNVEAKx8etcPP6sCbmnEcyhmU9qhamv5wJSlaklNnA9v9Ki_lo6RsegU_0tyS949.1JC5VkOYX_PxyMIn) HR diagram; SQL
+- [Lecture 27](https://SDSU.zoom.us/rec/share/jHVjJ42B4ixSnFzOVO9SuGcfFOb_KcMS3jO3B4U2hDI2UjXRuGKbKdVkRbDxPxeT.BCetza6ZKWeryHjx) statistical and systematic uncertainties; sampling in data space
