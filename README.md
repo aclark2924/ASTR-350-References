@@ -24,6 +24,8 @@
 - [Lecture 22](https://SDSU.zoom.us/rec/share/1ee3P3kMK4810w_RngKDkPU815F2pHRnAcODFNmtrjRVlvR2kL9SRPapCqzwSkSF.dSqTkl1ERmXsfIyO) bootstrap resampling
 - Lecture 23 (oral presentations)
 - Lecture 24 (oral presentations)
-- [Lecutre 25](https://SDSU.zoom.us/rec/share/R3hg_oKlYvnogWW98pZ4RLEkFSS6aKVkgM_RWylboxqzV5Ly_jp6ZCD75uzXf4RN.cisTinTK8VTzFG_V) galactic coordinates; absorption and extinction
+- [Lecture 25](https://SDSU.zoom.us/rec/share/R3hg_oKlYvnogWW98pZ4RLEkFSS6aKVkgM_RWylboxqzV5Ly_jp6ZCD75uzXf4RN.cisTinTK8VTzFG_V) galactic coordinates; absorption and extinction
 - [Lecture 26](https://SDSU.zoom.us/rec/share/FNVEAKx8etcPP6sCbmnEcyhmU9qhamv5wJSlaklNnA9v9Ki_lo6RsegU_0tyS949.1JC5VkOYX_PxyMIn) HR diagram; SQL
 - [Lecture 27](https://SDSU.zoom.us/rec/share/jHVjJ42B4ixSnFzOVO9SuGcfFOb_KcMS3jO3B4U2hDI2UjXRuGKbKdVkRbDxPxeT.BCetza6ZKWeryHjx) statistical and systematic uncertainties; sampling in data space
+- [Lecture 28](https://SDSU.zoom.us/rec/share/0vBNkh6Z79fvC8p4xEHx_zUGA5sklZ4vDBBiSUQX83OzLkJg88Ew29PxQEBIJMp4.zeX27muxLRsh2F3R) spectroscopy
+- [Lecture 29](https://SDSU.zoom.us/rec/share/vNytB-yzFG74OGs93Z-obUjP9Pp7XHc98gFFKZoY8CTQjID6EHZTP4FP8zMK7RZc.IujtR0r3_E8KqZ6X) Bayesian statistics; review
